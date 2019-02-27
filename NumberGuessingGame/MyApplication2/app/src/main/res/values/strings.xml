@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_name_title">Hello Student!</string>
+    <string name="subtitle">Hey student!  Click the number that is bigger than the other number.  Even you can do this.</string>
+</resources>
